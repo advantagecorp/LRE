@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\LoadRunner\VugenScripting\AOS Browse Catalog
--IC:\Program Files (x86)\OpenText\LoadRunner\include
--ec:\loadrunner\vugenscripting\aos browse catalog\\logfile.log
-c:\loadrunner\vugenscripting\aos browse catalog\\combined_AOS Browse Catalog.c
-c:\loadrunner\vugenscripting\aos browse catalog\\pre_cci.c

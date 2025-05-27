@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\LoadRunner\VugenScripting\AOS- Laptops
+-IC:\Program Files (x86)\OpenText\LoadRunner\include
+-ec:\loadrunner\vugenscripting\aos- laptops\\logfile.log
+c:\loadrunner\vugenscripting\aos- laptops\\combined_AOS- Laptops.c
+c:\loadrunner\vugenscripting\aos- laptops\\pre_cci.c
